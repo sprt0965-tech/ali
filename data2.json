@@ -1,14 +1,15 @@
 
 {
   "teachers": [
-
-  {
-      "id": 1746651021373,
-      "name": "حسين محمد 2026",
-      "subject": "مدرس مادة الفيزياء",
-      "image": "https://i.imghippo.com/files/STOx6770IE.jpg",
-      "classes": [
-        {
+    {
+      "id": 1,
+      "name": "...",
+      "subject": "...",
+      "image": "...",
+      "classes": [...]
+    }
+  ]
+}
           "name": "الفصل الاول: المتسعات",
           "lectures": [
             {
